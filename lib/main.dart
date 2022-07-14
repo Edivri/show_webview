@@ -20,10 +20,10 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-            title: Text('Kilo Loco\'s Website'),
+            title: Text('Ben Edivri\'s Repo'),
           ),
           body: WebView(
-            initialUrl: "https://kiloloco.com",
+            initialUrl: "https://github.com/Edivri",
             onWebViewCreated: (controller) => _controller.complete(controller),
           ),
           bottomNavigationBar: Container(
