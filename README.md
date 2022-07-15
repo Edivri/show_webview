@@ -1,5 +1,8 @@
 # show_webview
 
 ## Screenshots
-<img src="images/repo.png" width=50% height=50% style="display: inline">
-<img src="images/repo.png" width=50% height=50% style="display: inline>
+
+<p float="left">
+<img src="images/repo.png" width=50% height=50% >
+<img src="images/repo.png" width=50% height=50% >
+</p>
