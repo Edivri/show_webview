@@ -1,6 +1,6 @@
 # show_webview
 
-<table>
+<!-- <table>
   <tr>
     <td>First Screen Page</td>
      <td>Holiday Mention</td>
@@ -12,7 +12,7 @@
     <td><img src="images/repo1.png" width=270 height=480 >
 </td>
   </tr>
- </table>
+ </table> -->
 
 ## Screenshots
 
